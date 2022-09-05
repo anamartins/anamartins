@@ -1,3 +1,1 @@
-Hello! I'm Ana and after finished my degree in CS, I worked mostly as UX Specialist (I worked a few years as SEO Analyst and PO) and I spent almost 15 years without programming anything. This changed last year, when I started studying Javascript and OMG so many things have changed! Now I'm working on some personal projects. The one I'm most proud of is the <a href="https://www.bluebirdhastoldme.com/" >Blue Bird Has Told Me</a>, where you can see what people are tweeting about all the Animal Crossing: New Horizons villagers. 
 
-I'm studying React and Redux, sometimes a little testing with Jest. I love knitting, and my second big personal project will be a top-down sweater calculator. Before that, I'm doing my website. Wish me luck! ✨ ✨ 
